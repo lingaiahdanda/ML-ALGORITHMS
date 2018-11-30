@@ -1,8 +1,7 @@
-# ML-ALGORITHMS
-#machine Learning Enthusiast ...
--------------------ML ALGORITHMS------------------------------------
+
+
 1.Simple Linear Regression
----------------------------
+
 predicting the salaries of an employees based on their experiences 
 saleries.csv provides the data to train the ml algorithm
 we split the data into training set and test set 
