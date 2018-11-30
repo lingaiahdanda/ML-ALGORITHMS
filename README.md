@@ -1,4 +1,4 @@
-1.Simple Linear Regression
+#Simple Linear Regression
 
 predicting the salaries of an employees based on their experiences...
 saleries.csv provides the data to train the ml algorithm..
