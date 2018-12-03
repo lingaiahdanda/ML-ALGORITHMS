@@ -11,7 +11,11 @@ Atlast we plot the predicted salaries using scatterplot and draw a regression li
 Thats it ....
 Happy Machine Learning Pals......
 
-#Multiple Linear Regression
-dataset=50_Stratups.csv
+#Multiple Linear Regression.......
+#dataset=50_Stratups.csv
+
+
+#Polynomial Regression.....
+#Dataset=Position_Salries.csv
 
 
