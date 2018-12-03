@@ -1,4 +1,5 @@
 #Simple Linear Regression
+#dataset=slaries.csv
 
 predicting the salaries of an employees based on their experiences...
 saleries.csv provides the data to train the ml algorithm..
@@ -9,4 +10,8 @@ To test the performance of our algorithm we use test set data to predict the sal
 Atlast we plot the predicted salaries using scatterplot and draw a regression line from which we know the differences in actual salary and predicted salary..
 Thats it ....
 Happy Machine Learning Pals......
+
+#Multiple Linear Regression
+dataset=50_Stratups.csv
+
 
