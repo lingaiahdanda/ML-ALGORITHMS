@@ -51,7 +51,8 @@ x_opt=x[:,[0,3]]
 regressor_ols=sm.OLS(endog=y,exog=x_opt).fit()
 regressor_ols.summary()
 
-#looping the above statements 
+#looping the above statements its good to loop rather than writing a large code 
+#the functionality of this fumction is same as above steps 
 '''def backwardElimination(x, sl):
     numVars = len(x[0])
     for i in range(0, numVars):
