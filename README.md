@@ -1,6 +1,4 @@
 # Simple Linear Regression
-# dataset=slaries.csv
-
 predicting the salaries of an employees based on their experiences...
 saleries.csv provides the data to train the ml algorithm..
 we split the data into training set and test set ..
